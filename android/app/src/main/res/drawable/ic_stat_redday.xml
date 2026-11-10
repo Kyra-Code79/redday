@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Monochrome status-bar icon (white on transparent, as Android requires). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:pathData="M15.8,3.84 A9,9 0 1,1 8.2,3.84"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <group
+        android:pivotX="12"
+        android:pivotY="12.5"
+        android:rotation="38">
+        <path
+            android:pathData="M12,6.5 C15.6,9 15.6,15 12,18.5 C8.4,15 8.4,9 12,6.5 Z"
+            android:fillColor="#FFFFFFFF" />
+    </group>
+</vector>

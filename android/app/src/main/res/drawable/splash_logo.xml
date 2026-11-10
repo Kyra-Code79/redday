@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash variant of the RedDay mark on a round green badge. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M54,0 a54,54 0 1,0 0.01,0 Z"
+        android:fillColor="#388E5A" />
+    <path
+        android:pathData="M62.89,29.57 A26,26 0 1,1 45.11,29.57"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M54,25.5 m-3.2,0 a3.2,3.2 0 1,0 6.4,0 a3.2,3.2 0 1,0 -6.4,0"
+        android:fillColor="#DDF3E4" />
+    <group
+        android:pivotX="54"
+        android:pivotY="56"
+        android:rotation="38">
+        <path
+            android:pathData="M54,38 C64.5,45.5 64.5,63 54,72 C43.5,63 43.5,45.5 54,38 Z"
+            android:fillColor="#DDF3E4" />
+        <path
+            android:pathData="M54,45 L54,67"
+            android:strokeColor="#388E5A"
+            android:strokeWidth="2.2"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000" />
+    </group>
+</vector>
